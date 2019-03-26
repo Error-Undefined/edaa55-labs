@@ -1,0 +1,8 @@
+Spelregler:
+
+Skriv upp talen 1-6.
+Kasta tärningen.
+Stryck ett tal om det matchar tärningen.
+Först att strycka alla tal vinner.
+
+Bäst av 5.
